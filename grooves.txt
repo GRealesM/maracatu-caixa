@@ -1,0 +1,46 @@
+// Maracatu caixa grooves: the shared library for the practice page.
+// One line per bar, 16 sixteenths. Spaces are ignored.
+//   Notes:    X head   o ghost   . rest   ~ rumble
+//   Sticking (optional, after |): R L, r = RR, l = LL, B both sticks, F flam, . none
+//   Repeat a bar by ending its line with x2, x3...
+// A line starting with # starts a new groove. Lines starting with // are comments.
+// A groove with an error is skipped and named in a warning on the page.
+
+# Luanda — 1
+XooX XoXo oXoo oXoo
+
+# Male / Arrasto / Afoxé — 2
+XooX Xooo oXoX Xooo
+
+# Martelo — 4
+XXoX XoXo XXoX XoXo | RRLR RLRL RRLR RLRL
+
+# Baque 1 (Baque de Luanda)
+XooX Xooo ooXo XoXo
+XooX Xooo oXoX Xooo
+XooX Xooo oXoX XoXX
+XooX Xooo oXoX Xooo
+
+# Baque 3 (Baque de Parada)
+XooX Xooo oXoo XoXo
+XooX XoXo oXoo XoXo
+XooX Xooo oXoX XoXo
+XooX Xooo oXXX oXoX
+XooX Xooo oXoX Xooo
+ooXo XoXo XXoo XoXo
+XooX Xooo oXoX Xooo  x3
+
+# Baque de Sandrinho
+XooX Xooo oXoX Xooo  x3
+ooXo XoXo oXoX oXXX
+XooX Xooo oXoX Xooo  x3
+ooXo XoXo oXoX oXXX
+X..X ..X. .X.. X.X.  x2
+XooX Xooo oXoX Xooo
+~~~~ ~~~~ X..X X...
+
+# Baque de Afoxé
+XooX Xooo oXoX Xooo
+XooX Xooo oXoX XoXo
+XooX Xooo oXoX Xooo
+XoXo XoXo X... ....
