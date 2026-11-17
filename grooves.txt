@@ -70,3 +70,28 @@ ooXo XoXo oXoX oXXX
 XooX XXoX XXoX XoXo
 XoXo XoXo oXoX oXXX
 ~~Xo XoXo XXoo XXoo
+
+# Darrum II (Porto Rico)
+
+XooX XoXo oXoX XoXo
+XooX XoXX XoXX Xooo
+XooX Xooo XooX Xooo
+oXoX Xooo ~~~~ ~~~~
+~~~~ ~ooo .... ....
+XooX XXXX XoXo XoXo
+XooX XoXo oXoX XoXo  x2
+X... .... .... ....
+XoXo Xooo oXoo oXoo
+XooX XoXo oXoo oXoo
+XoXo Xooo oXoo oXoo
+XooX XoXo oXoo oXoo
+XoXo Xooo oXoo oXoo
+XooX XoXo oXoo oXoo
+ooXo ooXo oXoX Xooo
+XooX XoXo oXoo oXoX  x3
+ooXo ooXo oXoX Xooo
+.o.o oooo .o.o oooo
+XooX ooXo oXoX XoXo
+X... X... X... X...
+XooX XoXo oXoX XoXo
+X... .... X... ....
